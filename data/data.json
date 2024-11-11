@@ -1,0 +1,910 @@
+{
+  "models": {
+    "Chat-GPT 4o": {
+      "sports": {
+        "papers": [
+          {
+            "reference": "Advances in Sport Science: Latest Findings and New Scientific Proposals (Maneiro et al., 2022)",
+            "exists": "Yes",
+            "source": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.891906/full",
+            "year": 2022,
+            "journal": "Frontiers in Psychology",
+            "jif": 0.9,
+            "citations": 5
+          },
+          {
+            "reference": "Head Movements Affect Skill Acquisition for Ball Trapping in Blind Football (Mieda & Kokubu, 2024)",
+            "exists": "Yes",
+            "source": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313336",
+            "year": 2024,
+            "journal": "PLOS ONE",
+            "jif": 2.9,
+            "citations": 0
+          },
+          {
+            "reference": "Exploring Prevalent Injuries Among Tennis Players and Optimal Rehabilitation Approaches: A Systematic Review Protocol (Rodr\u00edguez-Gonz\u00e1lez et al., 2024)",
+            "exists": "Yes",
+            "source": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309232",
+            "year": 2024,
+            "journal": "PLOS ONE",
+            "jif": 2.9,
+            "citations": 0
+          },
+          {
+            "reference": "Predicting Goal Probabilities with Improved xG Models Using Event Sequences in Association Football (Bandara et al., 2024)",
+            "exists": "Yes",
+            "source": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0312278",
+            "year": 2024,
+            "journal": "PLOS ONE",
+            "jif": 2.9,
+            "citations": 0
+          },
+          {
+            "reference": "The Influence of Lightweight Wearable Resistance on Whole Body Coordination During Sprint Acceleration Among Australian Rules Football Players (Trounson et al., 2024)",
+            "exists": "Yes",
+            "source": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313290",
+            "year": 2024,
+            "journal": "PLOS ONE",
+            "jif": 2.9,
+            "citations": 0
+          }
+        ]
+      },
+      "basketball": {
+        "papers": [
+          {
+            "reference": "Developing Fitness Tests for the Components of Basketball (Jenkins et al., 2023)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          },
+          {
+            "reference": "Physiological Responses to Small-Sided Games in Basketball: A Systematic Review (Conte et al., 2022)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          },
+          {
+            "reference": "Training Load and Match-Play Demands in Basketball Based on Competition Level: A Systematic Review (Various Authors, 2019)",
+            "exists": "Yes",
+            "source": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0229212",
+            "year": 2020,
+            "journal": "PLOS ONE",
+            "jif": 2.9,
+            "citations": 216
+          },
+          {
+            "reference": "Sports Injuries in Basketball Players: A Systematic Review (Mili\u0107 et al., 2024)",
+            "exists": "Yes",
+            "source": "https://www.mdpi.com/2075-1729/14/7/898",
+            "year": 2024,
+            "journal": "Life",
+            "jif": 3.2,
+            "citations": 0
+          },
+          {
+            "reference": "Effects of Aerobic and Strength Training on Basketball Performance: A Meta-Analysis (Santos et al., 2021)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          }
+        ]
+      },
+      "basketball_shooting_technique": {
+        "papers": [
+          {
+            "reference": "A review on the basketball jump shot (Okazaki et al., 2015)",
+            "exists": "Yes",
+            "source": "https://www.tandfonline.com/doi/abs/10.1080/14763141.2015.1052541",
+            "year": 2015,
+            "journal": "Sports Biomechanics",
+            "jif": 2.0,
+            "citations": 178
+          },
+          {
+            "reference": "Optimal release conditions for the free throw in men's basketball (Tran & Silverberg, 2008)",
+            "exists": "Yes",
+            "source": "https://www.tandfonline.com/doi/abs/10.1080/02640410802004948",
+            "year": 2008,
+            "journal": "Journal of Sports Sciences",
+            "jif": 2.3,
+            "citations": 174
+          },
+          {
+            "reference": "The relationship between basketball shooting kinematics, distance and playing position (Miller & Bartlett, 2007)",
+            "exists": "Yes",
+            "source": "https://www.tandfonline.com/doi/abs/10.1080/02640419608727708",
+            "year": 2007,
+            "journal": "Journal of Sports Sciences",
+            "jif": 2.3,
+            "citations": 330
+          },
+          {
+            "reference": "A biomechanical analysis of basketball shooting (Li & Dai, 2015)",
+            "exists": "Yes",
+            "source": "https://ijssst.info/Vol-16/No-3B/paper1.pdf",
+            "year": 2015,
+            "journal": "International Journal of Simulation: Systems, Science and Technology",
+            "jif": null,
+            "citations": 18
+          },
+          {
+            "reference": "Biomechanics of the basketball jump shot - six key teaching points (Knudson, 2013)",
+            "exists": "Yes",
+            "source": "https://www.tandfonline.com/doi/abs/10.1080/07303084.1993.10606710",
+            "year": 2013,
+            "journal": "Journal of Physical Education, Recreation & Dance",
+            "jif": 0.7,
+            "citations": 172
+          }
+        ]
+      },
+      "music": {
+        "papers": [
+          {
+            "reference": "Music as a Tool for Managing Anxiety and Stress in Children (Bensimon et al., 2008)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          },
+          {
+            "reference": "The Effects of Background Music on Consumer Behavior (Milliman, 1982)",
+            "exists": "Yes, but wrong name",
+            "source": "https://www.jstor.org/stable/1251706",
+            "year": 1982,
+            "journal": "Journal of Marketing",
+            "jif": 11.5,
+            "citations": 2098
+          },
+          {
+            "reference": "Neuroscience of Music: The Powerful Impact of Music (Suleymanzade, 2023)",
+            "exists": "Yes",
+            "source": "https://ojs.stanford.edu/ojs/index.php/intersect/article/view/2873",
+            "year": 2023,
+            "journal": "Intersect (Stanford)",
+            "jif": null,
+            "citations": 0
+          },
+          {
+            "reference": "Music Listening and Stress Recovery in Healthy Individuals: A Systematic Review with Meta-Analysis (Various Authors, 2022)",
+            "exists": "Yes",
+            "source": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0270031",
+            "year": 2022,
+            "journal": "PLOS ONE",
+            "jif": 2.9,
+            "citations": 36
+          },
+          {
+            "reference": "Effects of Music Training on Brain Development in Children (Schlaug et al., 2005)",
+            "exists": "Yes",
+            "source": "https://nyaspubs.onlinelibrary.wiley.com/doi/full/10.1196/annals.1360.015",
+            "year": 2005,
+            "journal": "Annals of the New York Academy of Sciences",
+            "jif": 4.1,
+            "citations": 822
+          }
+        ]
+      },
+      "rock music": {
+        "papers": [
+          {
+            "reference": "The Aesthetics of Rock (Meltzer, 1970)",
+            "exists": "Yes",
+            "source": "https://philpapers.org/rec/MELTAO-3",
+            "year": 1970,
+            "journal": "Book",
+            "jif": null,
+            "citations": 176
+          },
+          {
+            "reference": "The evolution of popular music: USA 1960-2010 (Mauch et al., 2015)",
+            "exists": "Yes, but confused name and authors",
+            "source": "https://royalsocietypublishing.org/doi/abs/10.1098/rsos.150081",
+            "year": 2015,
+            "journal": "Royal Society Open Science",
+            "jif": 2.9,
+            "citations": 302
+          },
+          {
+            "reference": "Novelty and cultural evolution in modern popular music (O'Toole, K. & Horv\u00e1t E., 2023)",
+            "exists": "Yes, but confused name and authors",
+            "source": "https://epjds.epj.org/articles/epjdata/abs/2023/01/13688_2023_Article_377/13688_2023_Article_377.html",
+            "year": 2023,
+            "journal": "EPJ Data Science",
+            "jif": 3.0,
+            "citations": 4
+          },
+          {
+            "reference": "Cultural Production and Consumption of Music in the Digital Age (Hracs et al., 2016)",
+            "exists": "Yes, but slightly wrong name",
+            "source": "https://epjds.epj.org/articles/epjdata/abs/2023/01/13688_2023_Article_377/13688_2023_Article_377.html",
+            "year": 2016,
+            "journal": "EPJ Data Science",
+            "jif": 0,
+            "citations": 63
+          },
+          {
+            "reference": "Rock music: A musical-aesthetic study (Haug, 2008)",
+            "exists": "Yes, but wrong author and date",
+            "source": "https://www.routledge.com/The-Production-and-Consumption-of-Music-in-the-Digital-Age/Hracs-Seman-Virani/p/book/9781138546417",
+            "year": 2008,
+            "journal": "Book",
+            "jif": 0.7,
+            "citations": 82
+          },
+          {
+            "reference": "Predicting success in the music industry with machine learning (Zangerle & Gassler, 2020)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          }
+        ]
+      },
+      "shoegaze": {
+        "papers": [
+          {
+            "reference": "Beyond Verse and Chorus: Experimental Formal Structures in Post-Millennial Rock Music (Osborn, 2010)",
+            "exists": "Yes",
+            "source": "https://www.proquest.com/openview/c61d5e33234e02de67f8a8f86f526a08/1",
+            "year": 2010,
+            "journal": "EPJ Data Science",
+            "jif": 3.0,
+            "citations": 56
+          },
+          {
+            "reference": "Cultural Memory and Musical Nostalgia in Shoegaze Revivalism (Billard, 2019)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          },
+          {
+            "reference": "The Aural Architecture of Shoegaze: Layering Sound and Emotions (Grey, 2022)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          },
+          {
+            "reference": "Shoegaze's Evolution and Influence on DIY and Bedroom Pop (Garcia, 2023)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          },
+          {
+            "reference": "Shoegaze, from Obscurity to Influence: A Historical Perspective (Halstead, 2023)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          }
+        ]
+      }
+    },
+    "Claude 3.5 Sonnet": {
+      "sports": {
+        "papers": [
+          {
+            "reference": "Periodization Training for Sports by Tudor Bompa and Carlo Buzzichelli (2015)",
+            "exists": "Yes",
+            "source": "https://books.google.es/books",
+            "year": 2015,
+            "journal": "Book",
+            "citations": 1415,
+            "jif": null
+          },
+          {
+            "reference": "The Role of Mental Training in Athletic Performance by Williams, J.M. and Krane, V. (2021)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          },
+          {
+            "reference": "Physiological Adaptations to Strength and Conditioning in Elite Athletes by Folland, J.P. and Williams, A.G. (2019)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          },
+          {
+            "reference": "Recovery in Sport: Nutritional Strategies to Optimize Performance by Burke, L.M. and Mujika, I. (2014)",
+            "exists": "Yes, but wrong name",
+            "source": "https://journals.humankinetics.com",
+            "year": 2014,
+            "journal": "International Journal of Sport Nutrition and Exercise Metabolism",
+            "jif": 3.0,
+            "citations": 90
+          },
+          {
+            "reference": "Talent Identification and Development in Sport: International Perspectives by Baker, J., Cobley, S., and Schorer, J. (2012)",
+            "exists": "Yes",
+            "source": "https://journals.sagepub.com",
+            "year": 2012,
+            "journal": "International Journal of Sports Science & Coaching",
+            "jif": 1.5,
+            "citations": 170
+          }
+        ]
+      },
+      "basketball": {
+        "papers": [
+          {
+            "reference": "Biomechanical Analysis of the Jump Shot in Basketball by Miller, S. & Bartlett, R. (2014)",
+            "exists": "Yes, but wrong author and date",
+            "source": "https://pmc.ncbi.nlm.nih.gov",
+            "year": 2014,
+            "journal": "Journal of Human Kinetics",
+            "jif": 1.9,
+            "citations": 150
+          },
+          {
+            "reference": "The Effects of Game-Based Training on Basketball Shooting Accuracy by Williams, K., Thompson, M., & Garcia, R. (2021)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          },
+          {
+            "reference": "Decision Making in Elite Basketball Players: A Cognitive Analysis by Chen, H. & Anderson, J. (2020)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          },
+          {
+            "reference": "Physical and Physiological Characteristics of Elite Basketball Players by Johnson, M., Lee, S., & Patel, K. (2018)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          },
+          {
+            "reference": "Statistical Analysis of Scoring Patterns in Professional Basketball by Rodriguez, A. & Smith, B. (2022)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          }
+        ]
+      },
+      "basketball shooting technique": {
+        "papers": [
+          {
+            "reference": "Biomechanical Analysis of the Jump Shot in Basketball by Okazaki, V.H.A., & Rodacki, A.L.F. (2014)",
+            "exists": "Yes, but wrong author and date",
+            "source": "https://pmc.ncbi.nlm.nih.gov",
+            "year": 2014,
+            "journal": "Journal of Human Kinetics",
+            "jif": 1.9,
+            "citations": 150
+          },
+          {
+            "reference": "The Effect of Various Arm Positions on Performance of the Basketball Free Throw by Miller, S., & Jackson, B. (2016)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          },
+          {
+            "reference": "Examination of the shooting arm motion in basketball: A comparative analysis of novice and expert performers by Chen, W., & Liu, Y. (2019)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          },
+          {
+            "reference": "Three-Dimensional Analysis of the Basketball Jump Shot: A Kinematic Study by Schmidt, A., & Wilson, B. (2015)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          },
+          {
+            "reference": "Motor Control and Learning in Basketball Shooting: Effects of Practice and Feedback by Thompson, J.R., & Roberts, G.C. (2014)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          }
+        ]
+      },
+      "music": {
+        "papers": [
+          {
+            "reference": "Neural Correlates of Music Processing: Evidence from fMRI Studies by Koelsch, S., & Siebel, W. A. (2005)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          },
+          {
+            "reference": "The Rewarding Aspects of Music Listening Are Related to Degree of Emotional Arousal by Salimpoor, V., Benovoy, M., Longo, G., & Zatorre, R. (2009)",
+            "exists": "Yes",
+            "source": "https://journals.plos.org",
+            "year": 2009,
+            "journal": "PLOS ONE",
+            "jif": 2.9,
+            "citations": 843
+          },
+          {
+            "reference": "Music and Emotion: Psychological Considerations by Juslin, P. N., & V\u00e4stfj\u00e4ll, D. (2011)",
+            "exists": "Yes, but wrong author and date",
+            "source": "https://www.researchgate.net",
+            "year": 2011,
+            "journal": "Book",
+            "citations": 71,
+            "jif": null
+          },
+          {
+            "reference": "The Role of Musical Training in Cognitive Development: A Review of Evidence by Schellenberg, E. G., & Weiss, M. W. (2013)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          },
+          {
+            "reference": "Universal Recognition of Three Basic Emotions in Music by Fritz, T., Jentschke, S., Gosselin, N., & Koelsch, S. (2009)",
+            "exists": "Yes",
+            "source": "https://www.cell.com",
+            "year": 2009,
+            "journal": "Current Biology",
+            "jif": 8.1,
+            "citations": 913
+          }
+        ]
+      },
+      "rock music": {
+        "papers": [
+          {
+            "reference": "Neural Correlates of Music Processing in Heavy Metal and Classical Music Fans by Schmidt, A. & Williams, K. (2019)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          },
+          {
+            "reference": "The Social Impact of Rock Music on Youth Culture: A 50-Year Longitudinal Study by Chen, M., Roberts, P., & Anderson, T. (2020)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          },
+          {
+            "reference": "Acoustic Analysis of Electric Guitar Distortion in Rock Music: 1960-2000 by Martinez, R. & Johnson, S. (2018)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          },
+          {
+            "reference": "Health Effects of Long-Term Exposure to High-Volume Rock Music Among Professional Musicians by Thompson, E., Black, M., & Kumar, V. (2021)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          },
+          {
+            "reference": "Evolution of Harmonic Complexity in Rock Music: A Computational Analysis of Billboard Hits 1955-2015 by Zhang, L. & O'Connor, B. (2017)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          }
+        ]
+      },
+      "shoegaze": {
+        "papers": [
+          {
+            "reference": "The Sonic Aesthetics of Shoegaze: Analyzing Distortion and Effects Processing in Late 1980s Alternative Rock by Sarah Chen & David Roberts (2018)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          },
+          {
+            "reference": "From My Bloody Valentine to Modern Dream Pop: A Psychoacoustic Analysis of Reverb in Shoegaze Music by James Walker (2016)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          },
+          {
+            "reference": "Cultural Geography of the Thames Valley Shoegaze Scene 1988-1994 by Emma Thompson (2012)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          },
+          {
+            "reference": "'Just Like Honey': A Comparative Study of Production Techniques in Early Creation Records Releases by Michael Hanson & Peter Cole (2019)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          },
+          {
+            "reference": "Embodied Experience and the Physicality of Shoegaze Performance by Rachel Liu (2015)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          }
+        ]
+      }
+    },
+    "Gemini 1.5 Flash": {
+      "sports": {
+        "papers": [
+          {
+            "reference": "The Impact of Mental Imagery on Athletic Performance: A Meta-Analysis by Hardy, L., Williams, J. M., & Cumming, J. (2009)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          },
+          {
+            "reference": "The Role of Nutrition in Sports Performance by Burke, L. M., Hawley, J. A., & Morton, J. P. (2011)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          },
+          {
+            "reference": "Exercise and Mental Health by Schuch, F. B., et al. (2017)",
+            "exists": "Yes, but wrong author and date",
+            "source": "https://www.sciencedirect.com",
+            "year": 2017,
+            "journal": "Maturitas",
+            "jif": 3.9,
+            "citations": 1270
+          },
+          {
+            "reference": "The Psychology of Sport and Exercise by Vealey, R. S., & Jones, J. M. (2016)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          },
+          {
+            "reference": "The Science of Sports Injuries by Garrett, W. E., Jr., & Kirkendall, D. T. (2010)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          }
+        ]
+      },
+      "basketball": {
+        "papers": [
+          {
+            "reference": "The Impact of Player Fatigue on Basketball Performance by D.K. Burke, G.J. Coutts, and N.L. Jones (2015)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          },
+          {
+            "reference": "The Biomechanics of Basketball Shooting by J.M. Hamill, R.G. Knutzen, and D.G. Derrick (2004)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          },
+          {
+            "reference": "The Relationship Between Playing Experience and Injury Risk in Basketball by M.A. Collins, S.M. Denegar, and M.D. Hewett (2010)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          },
+          {
+            "reference": "The Effects of Different Training Programs on Basketball Performance by S.C. Kim, J.H. Park, and J.W. Kim (2018)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          },
+          {
+            "reference": "The Role of Mental Imagery in Basketball Performance by P.D. Gould, M.D. Weiss, and K.R. Weinberg (1987)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          }
+        ]
+      },
+      "basketball shooting technique": {
+        "papers": [
+          {
+            "reference": "A Biomechanical Analysis of Basketball Shooting by Parvez Shamim (2015)",
+            "exists": "Yes, but wrong author and date",
+            "source": "https://ijssst.info",
+            "year": 2015,
+            "journal": "International Journal of Simulation: Systems, Science and Technology",
+            "citations": 18,
+            "jif": null
+          },
+          {
+            "reference": "Analysis of Basketball Shooting Technique and Teaching Strategy (2020)",
+            "exists": "Yes, but wrong author and date",
+            "source": "https://francis-press.com",
+            "year": 2020,
+            "journal": "Frontiers in Sport Research",
+            "citations": 0,
+            "jif": null
+          },
+          {
+            "reference": "The Formation and Development of Basketball Shooting Technique by Hui Liang (2020)",
+            "exists": "Yes",
+            "source": "https://www.francis-press.com",
+            "year": 2020,
+            "journal": "Frontiers in Sport Research",
+            "citations": 0,
+            "jif": null
+          },
+          {
+            "reference": "Descriptive shot analysis in basketball by Gaetano Raiola (2016)",
+            "exists": "Yes",
+            "source": "https://www.redalyc.org",
+            "year": 2016,
+            "journal": "Journal of Human Sport and Exercise",
+            "jif": 0.5,
+            "citations": 40
+          },
+          {
+            "reference": "Mechanical analysis of basketball shooting: A review study by Parvez Shamim (2020)",
+            "exists": "Yes",
+            "source": "https://www.researchgate.net",
+            "year": 2020,
+            "citations": 0,
+            "journal": null,
+            "jif": null
+          }
+        ]
+      },
+      "music": {
+        "papers": [
+          {
+            "reference": "This is your brain on music: Understanding a human obsession (Levitin, D. J., 2011)",
+            "exists": "Yes, but confused name and authors",
+            "source": "https://books.google.es/books?hl=en&lr=&id=uEzWSV84e_0C&oi=fnd&pg=PA1&dq=+This+is+Your+Brain+on+Music:+The+Science+of+a+Human+Obsession.&ots=rMqTdSYNKT&sig=zBaezaEGOuIw7UeIO4s0zwRz3e8&redir_esc=y#v=onepage&q=This%20is%20Your%20Brain%20on%20Music%3A%20The%20Science%20of%20a%20Human%20Obsession.&f=false",
+            "year": 2011,
+            "journal": "Book",
+            "citations": 3381,
+            "jif": null
+          },
+          {
+            "reference": "This is your brain on music: The science of a human obsessionThis is your brain on music: The science of a human obsession (J. Daniel, 2011)",
+            "exists": "Yes, but confused name and authors",
+            "source": "http://diglib.globalcollege.edu.et",
+            "year": 2006,
+            "journal": "Book",
+            "citations": 6,
+            "jif": null
+          },
+          {
+            "reference": "Sweet Anticipation: Music and the Psychology of Expectation by Huron, D. (2006)",
+            "exists": "Yes",
+            "source": "https://books.google.es/books?hl=en&lr=&id=sgr-DwAAQBAJ&oi=fnd&pg=PR5&dq=+Sweet+Anticipation:+Music+and+the+Psychology+of+Expectation&ots=0c4BAX_SXX&sig=QRHkFik0eCfs1mca3sNpRugIyXs&redir_esc=y#v=onepage&q=Sweet%20Anticipation%3A%20Music%20and%20the%20Psychology%20of%20Expectation&f=false",
+            "year": 2008,
+            "journal": "Book",
+            "citations": 4144,
+            "jif": null
+          },
+          {
+            "reference": "Handbook of Music and Emotion: Theory, Research, Applications (Juslin., P. N., & Sloboda, J. A., 2010)",
+            "exists": "Yes",
+            "source": "https://academic.oup.com/book/38621",
+            "year": 2010,
+            "journal": "Book",
+            "citations": 1640,
+            "jif": null
+          },
+          {
+            "reference": "The Neural Basis of Pleasure in Music (Zatorre, R. J., & Salimpoor, V. N., 2013)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "citations": null,
+            "jif": null
+          },
+          {
+            "reference": "Intensely pleasurable responses to music correlate with activity in brain regions implicated in reward and emotion (Blood, A. J., & Zatorre, R. J., 2001)",
+            "exists": "Yes",
+            "source": "https://www.pnas.org",
+            "year": 2001,
+            "journal": "Proceedings of the National Academy of Sciences",
+            "jif": 9.4,
+            "citations": 4255
+          }
+        ]
+      },
+      "rock music": {
+        "papers": [
+          {
+            "reference": "Scholarly monographs on rock music by Monica Berger (2008)",
+            "exists": "Yes",
+            "source": "https://www.emerald.com",
+            "year": 2008,
+            "journal": "Collection Building",
+            "citations": 12,
+            "jif": null
+          },
+          {
+            "reference": "Percussion: Drumming, Beating, Striking (2002)",
+            "exists": "Yes, but wrong author",
+            "source": "https://books.google.es",
+            "year": 2002,
+            "journal": "Book",
+            "citations": 178,
+            "jif": null
+          },
+          {
+            "reference": "Rock Music Studies (2024)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          },
+          {
+            "reference": "The effect of rock music on mood and emotions (2024)",
+            "exists": "No",
+            "source": null,
+            "year": null,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          },
+          {
+            "reference": "Wild Years: Rock Music, Problem Behaviors and Mental Well-being in Adolescence and Young Adulthood (2021)",
+            "exists": "Yes",
+            "source": "https://link.springer.com",
+            "year": 2021,
+            "journal": "Journal of Youth and Adolescence",
+            "jif": 3.7,
+            "citations": 12
+          }
+        ]
+      },
+      "shoegaze": {
+        "papers": [
+          {
+            "reference": "The Role of Phonesthemes in Shoegaze Naming Conventions (David J. Smith, 2017)",
+            "exists": "Yes, but wrong author and date",
+            "source": "https://www.tandfonline.com",
+            "year": 2017,
+            "journal": "Names",
+            "jif": 0.9,
+            "citations": 4
+          },
+          {
+            "reference": "Shoegaze: The '90s Rock Genre Once Again Gains Ground (2019)",
+            "exists": "Yes, article",
+            "source": "https://20230524t095215-dot-pr-newsroom-wp.uc.r.appspot.com",
+            "year": 2019,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          },
+          {
+            "reference": "Is shoegaze the loneliest genre of music? (Christine Roaverage, 2018)",
+            "exists": "Yes, article",
+            "source": "https://wellcomecollection.org/stories/is-shoegaze-the-loneliest-genre-of-music-",
+            "year": 2018,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          },
+          {
+            "reference": "Shoegaze (2023)",
+            "exists": "Yes, article",
+            "source": "https://en.wikipedia.org/wiki/Shoegaze#:~:text=Shoegaze%20(originally%20called%20shoegazing%20and,%2C%20feedback%2C%20and%20overwhelming%20volume.",
+            "year": 2024,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          },
+          {
+            "reference": "The Impact & Influence Of Shoegaze (2023)",
+            "exists": "Yes, article",
+            "source": "https://medium.com/shufflequest/the-impact-influence-of-shoegaze-c0280994526f",
+            "year": 2020,
+            "journal": null,
+            "jif": null,
+            "citations": null
+          }
+        ]
+      }
+    }
+  }
+}
