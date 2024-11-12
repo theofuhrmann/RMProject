@@ -10,7 +10,8 @@
             "year": 2022,
             "journal": "Frontiers in Psychology",
             "jif": 0.9,
-            "citations": 5
+            "citations": 5,
+            "journal_categories": ["PSYCHOLOGY, MULTIDISCIPLINARY"]
           },
           {
             "reference": "Head Movements Affect Skill Acquisition for Ball Trapping in Blind Football (Mieda & Kokubu, 2024)",
@@ -19,7 +20,8 @@
             "year": 2024,
             "journal": "PLOS ONE",
             "jif": 2.9,
-            "citations": 0
+            "citations": 0,
+            "journal_categories": ["MULTIDISCIPLINARY SCIENCES"]
           },
           {
             "reference": "Exploring Prevalent Injuries Among Tennis Players and Optimal Rehabilitation Approaches: A Systematic Review Protocol (Rodr\u00edguez-Gonz\u00e1lez et al., 2024)",
@@ -28,7 +30,8 @@
             "year": 2024,
             "journal": "PLOS ONE",
             "jif": 2.9,
-            "citations": 0
+            "citations": 0,
+            "journal_categories": ["MULTIDISCIPLINARY SCIENCES"]
           },
           {
             "reference": "Predicting Goal Probabilities with Improved xG Models Using Event Sequences in Association Football (Bandara et al., 2024)",
@@ -37,7 +40,8 @@
             "year": 2024,
             "journal": "PLOS ONE",
             "jif": 2.9,
-            "citations": 0
+            "citations": 0,
+            "journal_categories": ["MULTIDISCIPLINARY SCIENCES"]
           },
           {
             "reference": "The Influence of Lightweight Wearable Resistance on Whole Body Coordination During Sprint Acceleration Among Australian Rules Football Players (Trounson et al., 2024)",
@@ -46,7 +50,8 @@
             "year": 2024,
             "journal": "PLOS ONE",
             "jif": 2.9,
-            "citations": 0
+            "citations": 0,
+            "journal_categories": ["MULTIDISCIPLINARY SCIENCES"]
           }
         ]
       },
@@ -59,7 +64,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           },
           {
             "reference": "Physiological Responses to Small-Sided Games in Basketball: A Systematic Review (Conte et al., 2022)",
@@ -68,7 +74,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           },
           {
             "reference": "Training Load and Match-Play Demands in Basketball Based on Competition Level: A Systematic Review (Various Authors, 2019)",
@@ -77,7 +84,8 @@
             "year": 2020,
             "journal": "PLOS ONE",
             "jif": 2.9,
-            "citations": 216
+            "citations": 216,
+            "journal_categories": ["MULTIDISCIPLINARY SCIENCES"]
           },
           {
             "reference": "Sports Injuries in Basketball Players: A Systematic Review (Mili\u0107 et al., 2024)",
@@ -86,7 +94,8 @@
             "year": 2024,
             "journal": "Life",
             "jif": 3.2,
-            "citations": 0
+            "citations": 0,
+            "journal_categories": ["BIOLOGY"]
           },
           {
             "reference": "Effects of Aerobic and Strength Training on Basketball Performance: A Meta-Analysis (Santos et al., 2021)",
@@ -95,7 +104,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           }
         ]
       },
@@ -108,7 +118,8 @@
             "year": 2015,
             "journal": "Sports Biomechanics",
             "jif": 2.0,
-            "citations": 178
+            "citations": 178,
+            "journal_categories": ["SPORT SCIENCES, ENGINEERING, BIOMEDICAL"]
           },
           {
             "reference": "Optimal release conditions for the free throw in men's basketball (Tran & Silverberg, 2008)",
@@ -117,7 +128,8 @@
             "year": 2008,
             "journal": "Journal of Sports Sciences",
             "jif": 2.3,
-            "citations": 174
+            "citations": 174,
+            "journal_categories": ["SPORT SCIENCES"]
           },
           {
             "reference": "The relationship between basketball shooting kinematics, distance and playing position (Miller & Bartlett, 2007)",
@@ -126,7 +138,8 @@
             "year": 2007,
             "journal": "Journal of Sports Sciences",
             "jif": 2.3,
-            "citations": 330
+            "citations": 330,
+            "journal_categories": ["SPORT SCIENCES"]
           },
           {
             "reference": "A biomechanical analysis of basketball shooting (Li & Dai, 2015)",
@@ -135,7 +148,8 @@
             "year": 2015,
             "journal": "International Journal of Simulation: Systems, Science and Technology",
             "jif": null,
-            "citations": 18
+            "citations": 18,
+            "journal_categories": null
           },
           {
             "reference": "Biomechanics of the basketball jump shot - six key teaching points (Knudson, 2013)",
@@ -144,7 +158,8 @@
             "year": 2013,
             "journal": "Journal of Physical Education, Recreation & Dance",
             "jif": 0.7,
-            "citations": 172
+            "citations": 172,
+            "journal_categories": ["EDUCATION & EDUCATIONAL RESEARCH"]
           }
         ]
       },
@@ -157,7 +172,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           },
           {
             "reference": "The Effects of Background Music on Consumer Behavior (Milliman, 1982)",
@@ -166,7 +182,8 @@
             "year": 1982,
             "journal": "Journal of Marketing",
             "jif": 11.5,
-            "citations": 2098
+            "citations": 2098,
+            "journal_categories": ["BUSINESS"]
           },
           {
             "reference": "Neuroscience of Music: The Powerful Impact of Music (Suleymanzade, 2023)",
@@ -175,7 +192,8 @@
             "year": 2023,
             "journal": "Intersect (Stanford)",
             "jif": null,
-            "citations": 0
+            "citations": 0,
+            "journal_categories": null
           },
           {
             "reference": "Music Listening and Stress Recovery in Healthy Individuals: A Systematic Review with Meta-Analysis (Various Authors, 2022)",
@@ -184,7 +202,8 @@
             "year": 2022,
             "journal": "PLOS ONE",
             "jif": 2.9,
-            "citations": 36
+            "citations": 36,
+            "journal_categories": ["MULTIDISCIPLINARY SCIENCES"]
           },
           {
             "reference": "Effects of Music Training on Brain Development in Children (Schlaug et al., 2005)",
@@ -193,7 +212,8 @@
             "year": 2005,
             "journal": "Annals of the New York Academy of Sciences",
             "jif": 4.1,
-            "citations": 822
+            "citations": 822,
+            "journal_categories": ["MULTIDISCIPLINARY SCIENCES"]
           }
         ]
       },
@@ -206,7 +226,8 @@
             "year": 1970,
             "journal": "Book",
             "jif": null,
-            "citations": 176
+            "citations": 176,
+            "journal_categories": null
           },
           {
             "reference": "The evolution of popular music: USA 1960-2010 (Mauch et al., 2015)",
@@ -215,7 +236,8 @@
             "year": 2015,
             "journal": "Royal Society Open Science",
             "jif": 2.9,
-            "citations": 302
+            "citations": 302,
+            "journal_categories": ["MULTIDISCIPLINARY SCIENCES"]
           },
           {
             "reference": "Novelty and cultural evolution in modern popular music (O'Toole, K. & Horv\u00e1t E., 2023)",
@@ -224,7 +246,10 @@
             "year": 2023,
             "journal": "EPJ Data Science",
             "jif": 3.0,
-            "citations": 4
+            "citations": 4,
+            "journal_categories": [
+              "MATHEMATICS, INTERDISCIPLINARY APPLICATIONS, SOCIAL SCIENCES, MATHEMATICAL METHODS"
+            ]
           },
           {
             "reference": "Cultural Production and Consumption of Music in the Digital Age (Hracs et al., 2016)",
@@ -233,7 +258,8 @@
             "year": 2016,
             "journal": "EPJ Data Science",
             "jif": 0,
-            "citations": 63
+            "citations": 63,
+            "journal_categories": null
           },
           {
             "reference": "Rock music: A musical-aesthetic study (Haug, 2008)",
@@ -242,7 +268,8 @@
             "year": 2008,
             "journal": "Book",
             "jif": 0.7,
-            "citations": 82
+            "citations": 82,
+            "journal_categories": ["MUSIC"]
           },
           {
             "reference": "Predicting success in the music industry with machine learning (Zangerle & Gassler, 2020)",
@@ -251,7 +278,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           }
         ]
       },
@@ -264,7 +292,10 @@
             "year": 2010,
             "journal": "EPJ Data Science",
             "jif": 3.0,
-            "citations": 56
+            "citations": 56,
+            "journal_categories": [
+              "MATHEMATICS, INTERDISCIPLINARY APPLICATIONS, SOCIAL SCIENCES, MATHEMATICAL METHODS"
+            ]
           },
           {
             "reference": "Cultural Memory and Musical Nostalgia in Shoegaze Revivalism (Billard, 2019)",
@@ -273,7 +304,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           },
           {
             "reference": "The Aural Architecture of Shoegaze: Layering Sound and Emotions (Grey, 2022)",
@@ -282,7 +314,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           },
           {
             "reference": "Shoegaze's Evolution and Influence on DIY and Bedroom Pop (Garcia, 2023)",
@@ -291,7 +324,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           },
           {
             "reference": "Shoegaze, from Obscurity to Influence: A Historical Perspective (Halstead, 2023)",
@@ -300,7 +334,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           }
         ]
       }
@@ -315,7 +350,8 @@
             "year": 2015,
             "journal": "Book",
             "citations": 1415,
-            "jif": null
+            "jif": null,
+            "journal_categories": null
           },
           {
             "reference": "The Role of Mental Training in Athletic Performance by Williams, J.M. and Krane, V. (2021)",
@@ -324,7 +360,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           },
           {
             "reference": "Physiological Adaptations to Strength and Conditioning in Elite Athletes by Folland, J.P. and Williams, A.G. (2019)",
@@ -333,7 +370,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           },
           {
             "reference": "Recovery in Sport: Nutritional Strategies to Optimize Performance by Burke, L.M. and Mujika, I. (2014)",
@@ -342,7 +380,8 @@
             "year": 2014,
             "journal": "International Journal of Sport Nutrition and Exercise Metabolism",
             "jif": 3.0,
-            "citations": 90
+            "citations": 90,
+            "journal_categories": ["NUTRITION & DIETETICS, SPORT SCIENCES"]
           },
           {
             "reference": "Talent Identification and Development in Sport: International Perspectives by Baker, J., Cobley, S., and Schorer, J. (2012)",
@@ -351,7 +390,10 @@
             "year": 2012,
             "journal": "International Journal of Sports Science & Coaching",
             "jif": 1.5,
-            "citations": 170
+            "citations": 170,
+            "journal_categories": [
+              "HOSPITALITY, LEISURE, SPORT & TOURISM, PSYCHOLOGY, APPLIED"
+            ]
           }
         ]
       },
@@ -364,7 +406,8 @@
             "year": 2014,
             "journal": "Journal of Human Kinetics",
             "jif": 1.9,
-            "citations": 150
+            "citations": 150,
+            "journal_categories": ["PSYCHOLOGY, APPLIED"]
           },
           {
             "reference": "The Effects of Game-Based Training on Basketball Shooting Accuracy by Williams, K., Thompson, M., & Garcia, R. (2021)",
@@ -373,7 +416,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           },
           {
             "reference": "Decision Making in Elite Basketball Players: A Cognitive Analysis by Chen, H. & Anderson, J. (2020)",
@@ -382,7 +426,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           },
           {
             "reference": "Physical and Physiological Characteristics of Elite Basketball Players by Johnson, M., Lee, S., & Patel, K. (2018)",
@@ -391,7 +436,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           },
           {
             "reference": "Statistical Analysis of Scoring Patterns in Professional Basketball by Rodriguez, A. & Smith, B. (2022)",
@@ -400,7 +446,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           }
         ]
       },
@@ -413,7 +460,8 @@
             "year": 2014,
             "journal": "Journal of Human Kinetics",
             "jif": 1.9,
-            "citations": 150
+            "citations": 150,
+            "journal_categories": ["SPORT SCIENCES"]
           },
           {
             "reference": "The Effect of Various Arm Positions on Performance of the Basketball Free Throw by Miller, S., & Jackson, B. (2016)",
@@ -422,7 +470,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           },
           {
             "reference": "Examination of the shooting arm motion in basketball: A comparative analysis of novice and expert performers by Chen, W., & Liu, Y. (2019)",
@@ -431,7 +480,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           },
           {
             "reference": "Three-Dimensional Analysis of the Basketball Jump Shot: A Kinematic Study by Schmidt, A., & Wilson, B. (2015)",
@@ -440,7 +490,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           },
           {
             "reference": "Motor Control and Learning in Basketball Shooting: Effects of Practice and Feedback by Thompson, J.R., & Roberts, G.C. (2014)",
@@ -449,7 +500,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           }
         ]
       },
@@ -462,7 +514,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           },
           {
             "reference": "The Rewarding Aspects of Music Listening Are Related to Degree of Emotional Arousal by Salimpoor, V., Benovoy, M., Longo, G., & Zatorre, R. (2009)",
@@ -471,7 +524,8 @@
             "year": 2009,
             "journal": "PLOS ONE",
             "jif": 2.9,
-            "citations": 843
+            "citations": 843,
+            "journal_categories": ["MULTIDISCIPLINARY SCIENCES"]
           },
           {
             "reference": "Music and Emotion: Psychological Considerations by Juslin, P. N., & V\u00e4stfj\u00e4ll, D. (2011)",
@@ -480,7 +534,8 @@
             "year": 2011,
             "journal": "Book",
             "citations": 71,
-            "jif": null
+            "jif": null,
+            "journal_categories": null
           },
           {
             "reference": "The Role of Musical Training in Cognitive Development: A Review of Evidence by Schellenberg, E. G., & Weiss, M. W. (2013)",
@@ -489,7 +544,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           },
           {
             "reference": "Universal Recognition of Three Basic Emotions in Music by Fritz, T., Jentschke, S., Gosselin, N., & Koelsch, S. (2009)",
@@ -498,7 +554,10 @@
             "year": 2009,
             "journal": "Current Biology",
             "jif": 8.1,
-            "citations": 913
+            "citations": 913,
+            "journal_categories": [
+              "BIOLOGY, CELL BIOLOGY, BIOCHEMISTRY & MOLECULAR BIOLOGY"
+            ]
           }
         ]
       },
@@ -511,7 +570,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           },
           {
             "reference": "The Social Impact of Rock Music on Youth Culture: A 50-Year Longitudinal Study by Chen, M., Roberts, P., & Anderson, T. (2020)",
@@ -520,7 +580,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           },
           {
             "reference": "Acoustic Analysis of Electric Guitar Distortion in Rock Music: 1960-2000 by Martinez, R. & Johnson, S. (2018)",
@@ -529,7 +590,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           },
           {
             "reference": "Health Effects of Long-Term Exposure to High-Volume Rock Music Among Professional Musicians by Thompson, E., Black, M., & Kumar, V. (2021)",
@@ -538,7 +600,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           },
           {
             "reference": "Evolution of Harmonic Complexity in Rock Music: A Computational Analysis of Billboard Hits 1955-2015 by Zhang, L. & O'Connor, B. (2017)",
@@ -547,7 +610,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           }
         ]
       },
@@ -560,7 +624,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           },
           {
             "reference": "From My Bloody Valentine to Modern Dream Pop: A Psychoacoustic Analysis of Reverb in Shoegaze Music by James Walker (2016)",
@@ -569,7 +634,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           },
           {
             "reference": "Cultural Geography of the Thames Valley Shoegaze Scene 1988-1994 by Emma Thompson (2012)",
@@ -578,7 +644,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           },
           {
             "reference": "'Just Like Honey': A Comparative Study of Production Techniques in Early Creation Records Releases by Michael Hanson & Peter Cole (2019)",
@@ -587,7 +654,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           },
           {
             "reference": "Embodied Experience and the Physicality of Shoegaze Performance by Rachel Liu (2015)",
@@ -596,7 +664,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           }
         ]
       }
@@ -611,7 +680,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           },
           {
             "reference": "The Role of Nutrition in Sports Performance by Burke, L. M., Hawley, J. A., & Morton, J. P. (2011)",
@@ -620,7 +690,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           },
           {
             "reference": "Exercise and Mental Health by Schuch, F. B., et al. (2017)",
@@ -629,7 +700,10 @@
             "year": 2017,
             "journal": "Maturitas",
             "jif": 3.9,
-            "citations": 1270
+            "citations": 1270,
+            "journal_categories": [
+              "OBSTETRICS & GYNECOLOGY, GERIATRICS & GERONTOLOGY"
+            ]
           },
           {
             "reference": "The Psychology of Sport and Exercise by Vealey, R. S., & Jones, J. M. (2016)",
@@ -638,7 +712,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           },
           {
             "reference": "The Science of Sports Injuries by Garrett, W. E., Jr., & Kirkendall, D. T. (2010)",
@@ -647,7 +722,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           }
         ]
       },
@@ -660,7 +736,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           },
           {
             "reference": "The Biomechanics of Basketball Shooting by J.M. Hamill, R.G. Knutzen, and D.G. Derrick (2004)",
@@ -669,7 +746,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           },
           {
             "reference": "The Relationship Between Playing Experience and Injury Risk in Basketball by M.A. Collins, S.M. Denegar, and M.D. Hewett (2010)",
@@ -678,7 +756,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           },
           {
             "reference": "The Effects of Different Training Programs on Basketball Performance by S.C. Kim, J.H. Park, and J.W. Kim (2018)",
@@ -687,7 +766,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           },
           {
             "reference": "The Role of Mental Imagery in Basketball Performance by P.D. Gould, M.D. Weiss, and K.R. Weinberg (1987)",
@@ -696,7 +776,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           }
         ]
       },
@@ -709,7 +790,8 @@
             "year": 2015,
             "journal": "International Journal of Simulation: Systems, Science and Technology",
             "citations": 18,
-            "jif": null
+            "jif": null,
+            "journal_categories": null
           },
           {
             "reference": "Analysis of Basketball Shooting Technique and Teaching Strategy (2020)",
@@ -718,7 +800,8 @@
             "year": 2020,
             "journal": "Frontiers in Sport Research",
             "citations": 0,
-            "jif": null
+            "jif": null,
+            "journal_categories": null
           },
           {
             "reference": "The Formation and Development of Basketball Shooting Technique by Hui Liang (2020)",
@@ -727,7 +810,8 @@
             "year": 2020,
             "journal": "Frontiers in Sport Research",
             "citations": 0,
-            "jif": null
+            "jif": null,
+            "journal_categories": null
           },
           {
             "reference": "Descriptive shot analysis in basketball by Gaetano Raiola (2016)",
@@ -736,7 +820,8 @@
             "year": 2016,
             "journal": "Journal of Human Sport and Exercise",
             "jif": 0.5,
-            "citations": 40
+            "citations": 40,
+            "journal_categories": ["SPORT SCIENCES"]
           },
           {
             "reference": "Mechanical analysis of basketball shooting: A review study by Parvez Shamim (2020)",
@@ -745,7 +830,8 @@
             "year": 2020,
             "citations": 0,
             "journal": null,
-            "jif": null
+            "jif": null,
+            "journal_categories": null
           }
         ]
       },
@@ -758,7 +844,8 @@
             "year": 2011,
             "journal": "Book",
             "citations": 3381,
-            "jif": null
+            "jif": null,
+            "journal_categories": null
           },
           {
             "reference": "This is your brain on music: The science of a human obsessionThis is your brain on music: The science of a human obsession (J. Daniel, 2011)",
@@ -767,7 +854,8 @@
             "year": 2006,
             "journal": "Book",
             "citations": 6,
-            "jif": null
+            "jif": null,
+            "journal_categories": null
           },
           {
             "reference": "Sweet Anticipation: Music and the Psychology of Expectation by Huron, D. (2006)",
@@ -776,7 +864,8 @@
             "year": 2008,
             "journal": "Book",
             "citations": 4144,
-            "jif": null
+            "jif": null,
+            "journal_categories": null
           },
           {
             "reference": "Handbook of Music and Emotion: Theory, Research, Applications (Juslin., P. N., & Sloboda, J. A., 2010)",
@@ -785,7 +874,8 @@
             "year": 2010,
             "journal": "Book",
             "citations": 1640,
-            "jif": null
+            "jif": null,
+            "journal_categories": null
           },
           {
             "reference": "The Neural Basis of Pleasure in Music (Zatorre, R. J., & Salimpoor, V. N., 2013)",
@@ -794,7 +884,8 @@
             "year": null,
             "journal": null,
             "citations": null,
-            "jif": null
+            "jif": null,
+            "journal_categories": null
           },
           {
             "reference": "Intensely pleasurable responses to music correlate with activity in brain regions implicated in reward and emotion (Blood, A. J., & Zatorre, R. J., 2001)",
@@ -803,7 +894,8 @@
             "year": 2001,
             "journal": "Proceedings of the National Academy of Sciences",
             "jif": 9.4,
-            "citations": 4255
+            "citations": 4255,
+            "journal_categories": ["MULTIDISCIPLINARY SCIENCES"]
           }
         ]
       },
@@ -816,7 +908,8 @@
             "year": 2008,
             "journal": "Collection Building",
             "citations": 12,
-            "jif": null
+            "jif": null,
+            "journal_categories": null
           },
           {
             "reference": "Percussion: Drumming, Beating, Striking (2002)",
@@ -825,7 +918,8 @@
             "year": 2002,
             "journal": "Book",
             "citations": 178,
-            "jif": null
+            "jif": null,
+            "journal_categories": null
           },
           {
             "reference": "Rock Music Studies (2024)",
@@ -834,7 +928,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           },
           {
             "reference": "The effect of rock music on mood and emotions (2024)",
@@ -843,7 +938,8 @@
             "year": null,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           },
           {
             "reference": "Wild Years: Rock Music, Problem Behaviors and Mental Well-being in Adolescence and Young Adulthood (2021)",
@@ -852,7 +948,8 @@
             "year": 2021,
             "journal": "Journal of Youth and Adolescence",
             "jif": 3.7,
-            "citations": 12
+            "citations": 12,
+            "journal_categories": ["PSYCHOLOGY, DEVELOPMENTAL"]
           }
         ]
       },
@@ -865,7 +962,8 @@
             "year": 2017,
             "journal": "Names",
             "jif": 0.9,
-            "citations": 4
+            "citations": 4,
+            "journal_categories": ["LINGUISTICS, LANGUAGE & LINGUISTICS"]
           },
           {
             "reference": "Shoegaze: The '90s Rock Genre Once Again Gains Ground (2019)",
@@ -874,7 +972,8 @@
             "year": 2019,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           },
           {
             "reference": "Is shoegaze the loneliest genre of music? (Christine Roaverage, 2018)",
@@ -883,7 +982,8 @@
             "year": 2018,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           },
           {
             "reference": "Shoegaze (2023)",
@@ -892,7 +992,8 @@
             "year": 2024,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           },
           {
             "reference": "The Impact & Influence Of Shoegaze (2023)",
@@ -901,7 +1002,8 @@
             "year": 2020,
             "journal": null,
             "jif": null,
-            "citations": null
+            "citations": null,
+            "journal_categories": null
           }
         ]
       }
